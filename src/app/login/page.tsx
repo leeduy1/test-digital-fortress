@@ -101,7 +101,7 @@ export default function LoginPage() {
             </button>
 
             <p className="mt-12 text-center text-gray-400 text-[16px] leading-[24px] font-semibold">
-              Don't have an account?{" "}
+              Don{"'"}t have an account?{" "}
               <Link
                 href="#"
                 className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500"
